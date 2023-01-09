@@ -2,13 +2,4 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 npm test
-npx lint-staged#!/usr/bin/env sh
-2
-. "$(dirname -- "$0")/_/husky.sh"
-3
-​
-4
-npm test
-5
 npx lint-staged
-6
